@@ -1,5 +1,5 @@
 # Girls-Inc
-The purpose of this project was to analyze results from the 2019 Strong, Smart, Bold  survey administered to the participants in the Tennessee Valley affiliate.
+The purpose of this project was to analyze results from the 2019 Strong, Smart, Bold  survey administered to the participants.
 Original data compiled responses according to organizational classifications of 'Strong', 'Smart' and 'Bold'. 
 The goal of the analysis was to connect survey questions classifications with assigned key word indicators to identify areas of refinement for the program. 
 
