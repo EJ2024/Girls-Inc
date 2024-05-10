@@ -7,4 +7,4 @@ The ipynb files take you through my journey of data cleaning, exploration and pl
 The xlsx file is an organizational and analytics tool. 
 
 This is a longitudinal project but the included files represent analysis to-date.
-Please see the [Girls, Inc Tableau viz](https://public.tableau.com/views/GirlsInc/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
+Click here to see the [Girls, Inc Tableau viz](https://public.tableau.com/views/GirlsInc/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
