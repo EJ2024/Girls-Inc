@@ -8,5 +8,5 @@ The goal of the analysis was two-fold:
 The ipynb file highlights data cleaning, exploration and plotting in Python.
 The xlsx file serves as an organizational and analytics tool. 
 
-Analysis is longitudinal but the included files are examples of original analysis to-date.
+Analysis is longitudinal but the included files are examples of analysis to-date.
 Click here to see the [Girls, Inc Tableau viz](https://public.tableau.com/views/GirlsInc/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).
