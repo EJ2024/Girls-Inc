@@ -2,7 +2,7 @@
 The purpose of this project was to analyze results from the 2019 Strong, Smart, Bold national survey.
 Original data collected responses according to organizational classifications of 'Strong', 'Smart' and 'Bold'. 
 The goal of the analysis was two-fold:
-1) to collect demograohic infrmation 
+1) to collect demographic infrmation 
 2) connect organizational classifications to assigned key word indicators in order to identify areas of refinement for the program. 
 
 The ipynb file highlights data cleaning, exploration and plotting in Python.
